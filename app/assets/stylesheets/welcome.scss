@@ -1,0 +1,16 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+#logo {
+    position: absolute;
+    top: 15%;  /* position the top  edge of the element at the middle of the parent */
+    left: 15%; /* position the left edge of the element at the middle of the parent */
+
+    transform: translate(-50%, -75%);
+    width: 20%;
+}
+
+#bgs {
+}
